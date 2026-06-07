@@ -6,15 +6,7 @@ Estou aprendendo programação full-stack e começando a fazer projetos para pra
 
 Atualmente prático as minhas habilidades com:
 
--HTML
-
--CSS
-
--JavaScript
-
--Python
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiKRLUZanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"> <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">
 
 <h3 align="left">Entre em contato:</h3>
 <p align="left">
