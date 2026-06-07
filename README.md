@@ -1,16 +1,22 @@
-## Hi there 👋
+## Bem-vindo
 
-<!--
-**KRLUZ/KRLUZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, meu nome é Carlos Henrique, sou um estudante do ensino médio técnico de desenvolvimento de sistemas do 2º ano.
 
-Here are some ideas to get you started:
+Estou aprendendo programação full-stack e começando a fazer projetos para praticar as habilidades aprendidas em meus cursos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente prático as minhas habilidades com:
+
+-HTML
+
+-CSS
+
+-JavaScript
+
+-Python
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiKRLUZanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+<h3 align="left">Entre em contato:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/carlos-h-soares-980168349/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+</p>
